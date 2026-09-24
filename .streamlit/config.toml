@@ -1,0 +1,20 @@
+[theme]
+base = "light"
+
+[theme.light]
+base="dark"
+backgroundColor="#ECEFF2"
+secondaryBackgroundColor="#D7DEE6"
+primaryColor="#4A77A5"
+textColor="#243447"
+dataframeHeaderBackgroundColor="#8FA6BF"
+
+[theme.dark]
+backgroundColor="#F4F2EC"
+secondaryBackgroundColor="#E5E0D6"
+ 
+primaryColor="#4E89AE"
+ 
+textColor="#2B3440"
+ 
+dataframeHeaderBackgroundColor="#C7B18A"
